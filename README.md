@@ -10,12 +10,12 @@ Currently it uses mainly NumPy, to work with an image as a matrix. This allowed 
 
 | Feature | Available on RGB | Available on grayscale |
 | ------- | ---------------- | ---------------------- |
-| Brightness adjustment | ✅ | ✅ |
-| Contrast adjustment | ✅ | ✅ |
-| A nice filter I called "film" | ✅ | ✅ |
-| Thereshold manipulation |  | ✅ |
-| Solarization level |  | ✅ |
-| Image histogram | ✅ | ✅ |
+| Brightness adjustment | ✔️ | ✔️ |
+| Contrast adjustment | ✔️ | ✔️ |
+| A nice filter I called "film" | ✔️ | ✔️ |
+| Thereshold manipulation |  | ✔️ |
+| Solarization level |  | ✔️ |
+| Image histogram | ✔️ | ✔️ |
 
 ⚠️ Downloading the modified image is not currently possible.
 
