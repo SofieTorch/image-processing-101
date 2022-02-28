@@ -15,8 +15,6 @@ uploaded_file = st.file_uploader(
 	type=['png', 'jpg', 'jpeg'],
 )
 
-controls, output = st.columns([1, 3])
-
 if uploaded_file is not None:
 	image = img.imread(uploaded_file).astype(np.uint16)
 
